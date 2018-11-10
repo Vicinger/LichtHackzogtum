@@ -22,7 +22,7 @@ while True:
 	print("Hauptmenue")
 	print("1:Blink")
 	print("2:Blaulicht")
-	auswahl = input("Ihre Auswahl:")
+	auswahl = input("Bitte waehlen Sie aus (1-2):")
 	if auswahl == 1:
 		blink()
 	if auswahl == 2:
